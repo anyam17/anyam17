@@ -11,17 +11,17 @@
 ---
 <details>
     <summary><b>✨ Web shell attack detection with Wazuh</b></summary>
-    [Web shell attack detection with Wazuh](https://wazuh.com/blog/web-shell-attack-detection-with-wazuh/)
+    [Web shell attack detection with Wazuh] (https://wazuh.com/blog/web-shell-attack-detection-with-wazuh/)
 </details>
 
 <details>
     <summary><b>🛠️ Docker container security monitoring with Wazuh</b></summary>
-    [](https://wazuh.com/blog/docker-container-security-monitoring-with-wazuh/)
+    [] (https://wazuh.com/blog/docker-container-security-monitoring-with-wazuh/)
 </details>
 
 <details>
     <summary><b>🔭 RapperBot botnet detection and mitigation with Wazuh</b></summary>
-    [RapperBot botnet detection and mitigation with Wazuh](https://wazuh.com/blog/rapperbot-botnet-detection-and-mitigation-with-wazuh/)
+    [RapperBot botnet detection and mitigation with Wazuh] (https://wazuh.com/blog/rapperbot-botnet-detection-and-mitigation-with-wazuh/)
 </details>
 
 ---
