@@ -5,16 +5,16 @@
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/henadence-anyam-665253104/) 
 
 ---
-### ⚡ Tech stack
+## ⚡ Tech stack
 
 Linux Shell Script Lua Python Docker Kubernetes ElasticSearch Grafana Prometheus Wazuh Badge Terraform Vagrant Redis Postgres DigitalOcean Amazon AWS Microsoft Azure Google Cloud Cloudflare Git GitHub GitLab Raspberry Pi
 
 ---
-### 📈 Recent articles
+## 📈 Recent articles
 
-* <b> ✨ [Web shell attack detection with Wazuh](https://wazuh.com/blog/web-shell-attack-detection-with-wazuh/)</b>
-* <b> ✨ [Docker container security monitoring with Wazuh](https://wazuh.com/blog/docker-container-security-monitoring-with-wazuh/)</b>
-* <b> ✨ [RapperBot botnet detection and mitigation with Wazuh](https://wazuh.com/blog/rapperbot-botnet-detection-and-mitigation-with-wazuh/)</b>
+* <b> [Web shell attack detection with Wazuh](https://wazuh.com/blog/web-shell-attack-detection-with-wazuh/)</b>
+* <b> [Docker container security monitoring with Wazuh](https://wazuh.com/blog/docker-container-security-monitoring-with-wazuh/)</b>
+* <b> [RapperBot botnet detection and mitigation with Wazuh](https://wazuh.com/blog/rapperbot-botnet-detection-and-mitigation-with-wazuh/)</b>
 
 ---
 
