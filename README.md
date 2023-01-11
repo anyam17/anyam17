@@ -4,6 +4,7 @@
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zluvsand/) 
 [![](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/7KmIUNWrK8wEHfQcQfFrQ1?si=0e2d44043b5a40a4) 
 
+---
 ### 📈 Most used languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anyam17"/>
 
@@ -11,9 +12,10 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=anyam17"/>
 
 ### 📈 Recent articles
+---
 <details>
     <summary><b>✨ Web shell attack detection with Wazuh</b></summary>
-    ![](https://wazuh.com/blog/web-shell-attack-detection-with-wazuh/)
+    ![Web shell attack detection with Wazuh](https://wazuh.com/blog/web-shell-attack-detection-with-wazuh/)
 </details>
 
 <details>
