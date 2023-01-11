@@ -7,7 +7,7 @@
 ---
 ## ⚡ Tech stack
 
-Linux Shell Script Lua Python Docker Kubernetes ElasticSearch Grafana Prometheus Wazuh Badge Terraform Vagrant Redis Postgres DigitalOcean Amazon AWS Microsoft Azure Google Cloud Cloudflare Git GitHub GitLab Raspberry Pi
+`Docker` **`Kubernetes`** `Elastic` **`Kibana`** `Prometheus` **`Wazuh`** `Gitlab` **`Jenkins`** `Grafana` **`Bash`** `Python` **`React`** `Javascript` **`MongoDB`** `NodeJS` **`Express`** `Terraform` **`NGINX`** 
 
 ---
 ## 📈 Recent articles
@@ -16,7 +16,6 @@ Linux Shell Script Lua Python Docker Kubernetes ElasticSearch Grafana Prometheus
 * <b> [Docker container security monitoring with Wazuh](https://wazuh.com/blog/docker-container-security-monitoring-with-wazuh/)</b>
 * <b> [RapperBot botnet detection and mitigation with Wazuh](https://wazuh.com/blog/rapperbot-botnet-detection-and-mitigation-with-wazuh/)</b>
 
----
 
 <!--
 **anyam17/anyam17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
