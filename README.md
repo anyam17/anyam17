@@ -19,10 +19,8 @@
     [] (https://wazuh.com/blog/docker-container-security-monitoring-with-wazuh/)
 </details>
 
-<details>
-    <summary><b>🔭 RapperBot botnet detection and mitigation with Wazuh</b></summary>
-    [RapperBot botnet detection and mitigation with Wazuh] (https://wazuh.com/blog/rapperbot-botnet-detection-and-mitigation-with-wazuh/)
-</details>
+- [RapperBot botnet detection and mitigation with Wazuh](https://wazuh.com/blog/rapperbot-botnet-detection-and-mitigation-with-wazuh/)
+
 
 ---
 ### ⚡ Most used languages
