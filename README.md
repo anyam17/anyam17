@@ -9,15 +9,9 @@
 ---
 ### 📈 Recent articles
 ---
-<b>✨ [Web shell attack detection with Wazuh](https://wazuh.com/blog/web-shell-attack-detection-with-wazuh/)</b>
-
-<details>
-    <summary><b>🛠️ Docker container security monitoring with Wazuh</b></summary>
-    [] (https://wazuh.com/blog/docker-container-security-monitoring-with-wazuh/)
-</details>
-
-- [RapperBot botnet detection and mitigation with Wazuh](https://wazuh.com/blog/rapperbot-botnet-detection-and-mitigation-with-wazuh/)
-
+<b> * [Web shell attack detection with Wazuh](https://wazuh.com/blog/web-shell-attack-detection-with-wazuh/)</b>
+<b> * [Docker container security monitoring with Wazuh](https://wazuh.com/blog/docker-container-security-monitoring-with-wazuh/)</b>
+<b> - [RapperBot botnet detection and mitigation with Wazuh](https://wazuh.com/blog/rapperbot-botnet-detection-and-mitigation-with-wazuh/)</b>
 
 ---
 ### ⚡ Most used languages
