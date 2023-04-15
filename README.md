@@ -12,6 +12,7 @@
 ---
 ## 📈 Recent articles
 
+* <b> [Hunting for suspicious Windows LNK files with Wazuh XDR](https://wazuh.com/blog/hunting-for-suspicious-windows-lnk-files-with-wazuh-xdr/)</b>
 * <b> [Detecting common Linux persistence techniques with Wazuh](https://wazuh.com/blog/detecting-common-linux-persistence-techniques-with-wazuh/)</b>
 * <b> [Web shell attack detection with Wazuh](https://wazuh.com/blog/web-shell-attack-detection-with-wazuh/)</b>
 * <b> [Docker container security monitoring with Wazuh](https://wazuh.com/blog/docker-container-security-monitoring-with-wazuh/)</b>
