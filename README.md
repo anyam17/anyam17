@@ -12,6 +12,8 @@
 ---
 ## 📈 Recent articles
 
+
+* <b> [Building IoC files for threat intelligence with Wazuh XDR](https://wazuh.com/blog/building-ioc-files-for-threat-intelligence-with-wazuh-xdr/)</b>
 * <b> [Hunting for suspicious Windows LNK files with Wazuh XDR](https://wazuh.com/blog/hunting-for-suspicious-windows-lnk-files-with-wazuh-xdr/)</b>
 * <b> [Detecting common Linux persistence techniques with Wazuh](https://wazuh.com/blog/detecting-common-linux-persistence-techniques-with-wazuh/)</b>
 * <b> [Web shell attack detection with Wazuh](https://wazuh.com/blog/web-shell-attack-detection-with-wazuh/)</b>
