@@ -12,7 +12,7 @@
 ---
 ## 📈 Recent articles
 
-
+* <b> [Configuration management of Wazuh endpoints using Ansible](https://wazuh.com/blog/configuration-management-endpoints-using-ansible/)</b>
 * <b> [Building IoC files for threat intelligence with Wazuh XDR](https://wazuh.com/blog/building-ioc-files-for-threat-intelligence-with-wazuh-xdr/)</b>
 * <b> [Hunting for suspicious Windows LNK files with Wazuh XDR](https://wazuh.com/blog/hunting-for-suspicious-windows-lnk-files-with-wazuh-xdr/)</b>
 * <b> [Detecting common Linux persistence techniques with Wazuh](https://wazuh.com/blog/detecting-common-linux-persistence-techniques-with-wazuh/)</b>
